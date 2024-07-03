@@ -1,0 +1,19 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+h1 {
+    background-color: white;
+}
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
